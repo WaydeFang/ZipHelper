@@ -1,0 +1,8 @@
+D:\Projects_VS\ZipTool\ZipTool\bin\Debug\ZipTool.exe.config
+D:\Projects_VS\ZipTool\ZipTool\bin\Debug\ZipTool.exe
+D:\Projects_VS\ZipTool\ZipTool\bin\Debug\ZipTool.pdb
+D:\Projects_VS\ZipTool\ZipTool\obj\Debug\ZipTool.MainForm.resources
+D:\Projects_VS\ZipTool\ZipTool\obj\Debug\ZipTool.Properties.Resources.resources
+D:\Projects_VS\ZipTool\ZipTool\obj\Debug\ZipTool.csproj.GenerateResource.Cache
+D:\Projects_VS\ZipTool\ZipTool\obj\Debug\ZipTool.exe
+D:\Projects_VS\ZipTool\ZipTool\obj\Debug\ZipTool.pdb

@@ -1,0 +1,7 @@
+D:\Projects_VS\ZipHelper\ZipHelper\bin\Debug\ZipHelper.dll
+D:\Projects_VS\ZipHelper\ZipHelper\bin\Debug\ZipHelper.pdb
+D:\Projects_VS\ZipHelper\ZipTool\ZipTool\bin\Debug\ZipHelper.dll
+D:\Projects_VS\ZipHelper\ZipTool\ZipTool\bin\Debug\ZipHelper.pdb
+D:\Projects_VS\ZipHelper\ZipHelper\obj\Debug\ZipHelper.csprojResolveAssemblyReference.cache
+D:\Projects_VS\ZipHelper\ZipHelper\obj\Debug\ZipHelper.dll
+D:\Projects_VS\ZipHelper\ZipHelper\obj\Debug\ZipHelper.pdb
